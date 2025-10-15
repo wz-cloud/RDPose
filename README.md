@@ -3,8 +3,7 @@
 The official implementation of the **The Visual Computer** paper:  
 **[RDPose: Enhancing Heatmap Accuracy in Human Pose Estimation through Robust Decoupling Mechanisms]**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17360279.svg)](https://doi.org/10.5281/zenodo.17360279)  
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17360422.svg)](https://doi.org/10.5281/zenodo.17360422)  
 
 ## Introduction
 
